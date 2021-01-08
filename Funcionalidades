@@ -1,0 +1,5 @@
+-Falto hostear la API en cloud, calculos de sets y la parte web.
+-Se puede consultar por GET enviando JSON x fecha y produccion.
+-tiene la validacion por POST si la suma de figuras es menor a 1M no impacta e nla base y devuelve error.
+-tiene el migration que agregando y updateando la DB funciona con esta.
+-Se realizaron test y debug con Postman .
